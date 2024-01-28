@@ -12,7 +12,7 @@ I am a 2nd-year Computer Science graduate student on an exciting journey of expl
 ## 🌐 Technologies & Tools
 - **Languages:** Java, Python, familiar with--HTML, CSS, JavaScript, C++
 - **Databases:** MySQL 
-- **Tools:** Git, VS Code
+- **Tools:** Git, GitHUb, VS Code
 
 ## 🌱 Currently Learning & Doing
 - Mastering Java and implementing DSA concepts.
